@@ -1,0 +1,10 @@
+1,1,apple,pear
+1,2,Fushigidane,
+1,3,이상해씨,씨앗포켓몬
+1,4,妙蛙種子,種子寶可夢
+1,5,Bulbizarre,Pokémon Graine
+1,6,Bisasam,Samen
+1,7,Bulbasaur,Pokémon Semilla
+1,8,Bulbasaur,Pokémon Seme
+1,9,Bulbasaur,Seed Pokémon
+1,11,フシギダネ,たねポケモン

@@ -1,0 +1,25 @@
+void setup(){
+  dexSetter dex=new dexSetter();
+  File f=new File("C:\\Users\\Caleb\\Desktop\\names.txt");
+  dex.setdex(f);
+  Damage damn=new Damage();
+// size(3000,2000);
+//double damageOutput(double level, double power, double attack, double defense, double weather, String moveType,  double burn, String type, String oppType1, String oppType2) {
+double level=100;
+double movePow=80;
+double attack=126;
+double defense=236;
+double weather=0;
+String moveType="dark";
+double burn=0;
+String type="normal";
+String oppType1="psychic";
+String oppType2="normal";
+println(damn.damageOutput(level,movePow,attack,defense,weather,moveType,burn,type,oppType1,oppType2));
+
+
+
+ //File f=new File("C:\\Users\\Caleb\\Desktop\\statInfo");
+
+
+}
